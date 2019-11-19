@@ -18,7 +18,7 @@ By the end of this lab you will:
 [Tips: PostGres/POSTGIS Troubleshooting](https://docs.google.com/presentation/d/1uwg0nku-oVk57es6wfKDTdxWbBtqAn4LClmogIRgfFQ/edit?usp=sharing)
 
 ### Jumpstart your first spatial datbasse!
-- Read through [Chapter 1]() in the PostGis in Action text. Work through the fast food dataset example.
+- Read through [Chapter 1](https://livebook.manning.com/book/postgis-in-action/chapter-1/171) in the PostGis in Action text. Work through the fast food dataset example.
 - Download relevant data from text Appendix.
 - Download relevat sourcecode from Appendix.
 
