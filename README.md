@@ -4,7 +4,7 @@ By Marynia Kolak
 
 Please note: this is a work in progress!
 
-## Lab 1. Installation
+## 1. Installation
 
 [Lab 1. Spatial Infrastructure Initialization, Part 1](https://docs.google.com/document/d/136TaoPacD7U9zN7inn2NDcyu5UZXey2tu3J_spaF_J4/edit?usp=sharing)
 
@@ -14,4 +14,6 @@ By the end of this lab you will:
 - Install software and packages from the command line
 - Identify core components of an open spatial infrastructure
 - Initialize a spatial database successfully
+
+*[Tips: PostGres/POSTGIS Troubleshooting] (https://docs.google.com/presentation/d/1uwg0nku-oVk57es6wfKDTdxWbBtqAn4LClmogIRgfFQ/edit?usp=sharing)
 
