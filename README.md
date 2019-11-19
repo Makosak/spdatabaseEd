@@ -15,5 +15,5 @@ By the end of this lab you will:
 - Identify core components of an open spatial infrastructure
 - Initialize a spatial database successfully
 
-*[Tips: PostGres/POSTGIS Troubleshooting] (https://docs.google.com/presentation/d/1uwg0nku-oVk57es6wfKDTdxWbBtqAn4LClmogIRgfFQ/edit?usp=sharing)*
+[Tips: PostGres/POSTGIS Troubleshooting] (https://docs.google.com/presentation/d/1uwg0nku-oVk57es6wfKDTdxWbBtqAn4LClmogIRgfFQ/edit?usp=sharing)
 
