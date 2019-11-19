@@ -47,18 +47,18 @@ At the end of this lab you’ll be able to:
 [Lab 4. pg/POSTGIS Query practices](https://docs.google.com/document/d/1_81SMC1fTQA8U_P0fW6XyuHqdMlbWNHlU51HudD4mqE/edit?usp=sharing)
 
 At the end of this lab you’ll be able to:
--Run basic non-spatial and spatial queries in Postgres
--Troubleshoot SRS issues and transform datasets as needed in POSTGIS
--Spatially join tables on-the-fly in POSTGIS
+- Run basic non-spatial and spatial queries in Postgres
+- Troubleshoot SRS issues and transform datasets as needed in POSTGIS
+- Spatially join tables on-the-fly in POSTGIS
 
 ## 5. Basics of Location Analysis 
 
 [Lab 5. Buffers and Location Analysis Basics](https://docs.google.com/document/d/1DxHBij3wxoReeiZ3dWyqU1-Avv91TQWa5yjSJf5H8Ks/edit?usp=sharing)
 
 At the end of this lab you’ll be able to:
--Review and fine-tune on-the-fly datastore queries in pgAdmin and OpenJump
--Conduct a buffer analysis at scale using POSTGIS
--Use POSTGIS and pgsql queries for basic location analysis
+- Review and fine-tune on-the-fly datastore queries in pgAdmin and OpenJump
+- Conduct a buffer analysis at scale using POSTGIS
+- Use POSTGIS and pgsql queries for basic location analysis
 
 
 
