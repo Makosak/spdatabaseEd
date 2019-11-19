@@ -6,7 +6,7 @@ Please note: this is a work in progress!
 
 ## Lab 1. Installation
 
-[Lab 1. Spatial Infrastructure Initialization, Part 1]:https://docs.google.com/document/d/136TaoPacD7U9zN7inn2NDcyu5UZXey2tu3J_spaF_J4/edit?usp=sharing
+[Lab 1. Spatial Infrastructure Initialization, Part 1](https://docs.google.com/document/d/136TaoPacD7U9zN7inn2NDcyu5UZXey2tu3J_spaF_J4/edit?usp=sharing)
 
 This lab guides you through the process of software installation required to build the Open Spatial Infrastructure we’ll be using throughout the course. Instructions provided for Mac and Windows systems; Ubuntu also available upon request. All of the instructions following already assume you have an OS or Windows system running on your machine. You can also use a VirtualBox or Docker environment for your system. 
 
