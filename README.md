@@ -2,7 +2,10 @@
 Training and educational resources to learn spatial databases
 By Marynia Kolak
 
+[Workshop Slides](https://docs.google.com/presentation/d/17jav6Ordg4z1_6ipME8S9fVaJ5HliP8DCTkeW9GhWxU/edit?usp=sharing)
+
 Please note: this is a work in progress!
+
 
 ## 1. Installation
 
